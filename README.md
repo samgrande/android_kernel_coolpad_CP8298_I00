@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-xUTXNKqDN6s/WOXSp7wm0wI/AAAAAAAASoE/kDjNTLWc0q8srTJ6tGS_DyPnH8o0tdB6ACLcB/s1600/Screen%2BShot%2B2017-03-10%2Bat%2B2.18.55%2BPM%2B%25282%2529.png" width="350"/>
+  <img src="https://3.bp.blogspot.com/-xUTXNKqDN6s/WOXSp7wm0wI/AAAAAAAASoE/kDjNTLWc0q8srTJ6tGS_DyPnH8o0tdB6ACLcB/s1600/Screen%2BShot%2B2017-03-10%2Bat%2B2.18.55%2BPM%2B%25282%2529.png" width="550"/>
   </p>
 <h1> ReaperGod Tree for CoolPad Note 3 Lite/ CP8298_I00 (lollipop)</h1>
 
