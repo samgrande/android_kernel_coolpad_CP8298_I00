@@ -130,6 +130,7 @@ gamma_write_lut_unlock:
 
 
 static int disp_gamma_set_lut(const DISP_GAMMA_LUT_T __user *user_gamma_lut, void *cmdq)
+
 {
 	int ret = 0;
 	disp_gamma_id_t id;
